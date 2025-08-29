@@ -5,12 +5,17 @@ permalink: /about/
 weight: 3
 ---
 
-# **About Me**
+# **About Lycoris Studio**
+Lycoris Studio is a small game studio based in Lincoln, UK, to date we have made three prototype games at GameJams to date, we currently have [one game close to full release](/_projects/JAM.md) and we are always working on more games!
 
-Hi I am **{{ site.author.name }}** :wave:,<br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+### Who's Behind Lycoris
+- Jake Mitchell
+- Jake Shaw
+- Korban James
+- Lewis Beety
+- Logan Kirby
+- Luke Davies
 
 
-<div class="row">
-{% include about/timeline.html %}
-</div>
+### Where can I find news on Lycoris
+On [this website](/projects/), [our blog](https://blog.LYCORIS-STUDIO.CO.UK/) and our social medias (bottom of the page)

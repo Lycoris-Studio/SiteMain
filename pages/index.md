@@ -31,6 +31,6 @@ permalink: /
 {% include landing.html %}
   <nav>
     <a class="btn primary" href="https://store.steampowered.com/app/3890550">Wishlist J.A.M on Steam!</a>
-    <a class="btn" href="/Projects">Our Games</a>
-    <a class="btn" href="/About">About Lycoris</a>
+    <a class="btn" href="/projects">Our Games</a>
+    <a class="btn" href="/about">About Lycoris</a>
   </nav>

@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+
+<!--
+  portfolYOU Jekyll theme by yousinix
+  Free for personal and commercial use under the MIT license
+  https://github.com/yousinix/portfolYOU
+-->
+
+<html lang="en" class="h-100">
+
+{% include head.html %}
+
+<body class="h-100 d-flex flex-column">
+  <style>
+    /* Replace theme toggler emojis with Font Awesome icons */
+    [data-theme="light"] #theme-toggler::before {
+      font-family: "Font Awesome 5 Free";
+      font-weight: 900; /* solid */
+      content: "\f186"; /* fa-moon */
+    }
+    [data-theme="dark"] #theme-toggler::before {
+      font-family: "Font Awesome 5 Free";
+      font-weight: 900; /* solid */
+      content: "\f185"; /* fa-sun */
+    }
+  </style>
+
+  <main class="flex-shrink-0 container mt-5">
+    {% include navbar.html %}
+    {{ content }}
+  </main>
+  {% include footer.html %}
+
+  {% include analytics.html %}
+  {% include scripts.html %}
+
+  {%- if site.buymeacoffee.enabled == true -%}
+    <script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="{{ site.buymeacoffee.username }}" data-description="{{ site.buymeacoffee.description }}" data-message="{{ site.buymeacoffee.message }}" data-color="{{ site.buymeacoffee.color }}" data-position="Right" data-x_margin="16" data-y_margin="16"></script>
+  {%- endif -%}
+</body>
+
+</html>

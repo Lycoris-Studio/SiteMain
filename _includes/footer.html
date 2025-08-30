@@ -1,0 +1,47 @@
+<footer class="mt-auto py-3 text-center">
+
+  <div class="container-fluid justify-content-center">
+    {%- assign open_new = site.open_new_tab | default: false -%}
+    {%- assign new_tab_attrs = '' -%}
+    {%- if open_new == true -%}
+      {%- assign new_tab_attrs = ' target="_blank" rel="noopener"' -%}
+    {%- endif -%}
+
+    {%- if site.author.github and site.author.github != 'your_username' -%}
+      <a class="social mx-1" href="https://github.com/{{ site.author.github }}"{{ new_tab_attrs }} aria-label="GitHub">
+        <i class="fab fa-github"></i>
+      </a>
+    {%- endif -%}
+
+    {%- if site.author.instagram and site.author.instagram != 'your_username' -%}
+      <a class="social mx-1" href="https://instagram.com/{{ site.author.instagram }}"{{ new_tab_attrs }} aria-label="Instagram">
+        <i class="fab fa-instagram"></i>
+      </a>
+    {%- endif -%}
+
+    {%- if site.author.twitter and site.author.twitter != 'your_username' -%}
+      <a class="social mx-1" href="https://twitter.com/{{ site.author.twitter }}"{{ new_tab_attrs }} aria-label="Twitter">
+        <i class="fab fa-twitter"></i>
+      </a>
+    {%- endif -%}
+
+    {%- if site.author.linkedin and site.author.linkedin != 'your_username' -%}
+      <a class="social mx-1" href="https://www.linkedin.com/in/{{ site.author.linkedin }}"{{ new_tab_attrs }} aria-label="LinkedIn">
+        <i class="fab fa-linkedin"></i>
+      </a>
+    {%- endif -%}
+
+    {%- if site.author.medium and site.author.medium != 'your_username' -%}
+      <a class="social mx-1" href="https://medium.com/@{{ site.author.medium }}"{{ new_tab_attrs }} aria-label="Medium">
+        <i class="fab fa-medium"></i>
+      </a>
+    {%- endif -%}
+
+    {%- if site.author.email -%}
+      <a class="social mx-1" href="mailto:{{ site.author.email }}" aria-label="Email">
+        <i class="fas fa-envelope"></i>
+      </a>
+    {%- endif -%}
+  </div>
+
+</footer>

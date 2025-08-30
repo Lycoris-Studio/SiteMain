@@ -1,0 +1,10 @@
+{
+  "configurations": [
+    {
+      "type": "command",
+      "name": "Jekyll Serve",
+      "program": "/bin/bash",
+      "args": ["-c", "bundle exec jekyll serve"]
+    }
+  ]
+}

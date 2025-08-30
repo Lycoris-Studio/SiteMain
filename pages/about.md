@@ -6,7 +6,8 @@ weight: 3
 ---
 
 # **About Lycoris Studio**
-Lycoris Studio is a small game studio based in Lincoln, UK, to date we have made three prototype games at GameJams to date, we currently have [one game close to full release](/_projects/JAM.md) and we are always working on more games!
+Lycoris Studio is a small game studio based in Lincoln, UK, we have made three prototype games at GameJams to date, we currently have [one game close to full release](/_projects/JAM.md) and we are always working on more games!
+<br><br>
 
 ### Who's Behind Lycoris
 - Jake Mitchell
@@ -15,6 +16,7 @@ Lycoris Studio is a small game studio based in Lincoln, UK, to date we have made
 - Lewis Beety
 - Logan Kirby
 - Luke Davies
+<br><br>
 
 
 ### Where can I find news on Lycoris

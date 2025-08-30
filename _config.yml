@@ -19,28 +19,29 @@ nav_exclude:                                            # The following paths ar
   - pages/404.html
   - pages/index.md
 
-
-### Author Info ###
 author:
   name              : Lycoris Studio
   image             : /LycorisMain.webp
-  behance           : your_username
+  instagram         : lycoris.studio.uk
+#  behance           : your_username
+# dribbble          : your_username
   email             : Lycoris.Studio@proton.me
-# facebook          : your_username
-  instagram         : Lycoris-Studio
+#  facebook          : Lycoris-Studio
   github            : Lycoris-Studio
-# linkedin          : your_username
-# medium            : your_username
+# gitlab            : your_username
+# instagram         : your_username
+# kaggle            : your_username
+#  linkedin          : your_username
+#  medium            : your_username
 # soundcloud        : your_username
 # spotify           : your_username
 # stackoverflow     : your_user_id
 # tumblr            : your_username.tumblr.com
 # twitch            : your_username
-# twitter           : your_username
+#  twitter           : your_username
 # vimeo             : your_username
 # youtube           : your_channel_name
 # keybase           : your_username
-
 
 ### Posts ###
 permalink: /blog/:title

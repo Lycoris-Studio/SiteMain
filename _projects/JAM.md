@@ -1,5 +1,5 @@
 ---
- name: Jam's Amazing Mirrors
+ name: Jam's Adjustable Mirrors
  tools: [Unity, C#, Aesprite]
  image: "/JAM.jpg"
  order: 1

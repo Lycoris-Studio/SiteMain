@@ -17,3 +17,5 @@ Now, instead of evacuating the prisoners to safety (arguably the more rational t
 You can play Nightwatch here:
 
 <iframe frameborder="0" src="https://itch.io/embed/3971299?bg_color=161616&amp;fg_color=ffffff&amp;link_color=fa5c5c&amp;border_color=444761" width="552" height="167"><a href="https://shrug582.itch.io/nightwatcher">Nightwatch by Lycoris Studio</a></iframe>
+
+![/NightwatchGif.gif](/NightwatchGif.gif)

@@ -1,13 +1,13 @@
 ---
 name: Nightwatch
- tools: [Unity, C#, Blockbench]
- image: "/Nightwatch.png"
- description: There is a monster within your prison. Pay close attention to your CCTV while balancing your normal duties.
- order: 3
- layout: page
+tools: [Unity, C#, Blockbench]
+image: "/Nightwatch.png"
+description: There is a monster within your prison. Pay close attention to your CCTV while balancing your normal duties.
+order: 4
+layout: page
 ---
-## Nightwatch
 
+## Nightwatch
 ![Nightwatch](/Nightwatch.png "Nightwatch")
 
 The fourth gamejam release by Lycoris Studio, with a gamejam theme of "Pay Attention", we decided to create Nightwatch, a horror-esque game where you play as a run-of-the-mill prison guard named Doug. Unfortunately for Doug, the prison has been infiltrated by a monster. Your boss, being the uncompromising push about he's always been, has ordered you to still come into work like usual. 

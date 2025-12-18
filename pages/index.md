@@ -30,7 +30,7 @@ permalink: /
 </style>
 {% include landing.html %}
   <nav>
-    <a class="btn primary" href="https://store.steampowered.com/app/3890550">Wishlist J.A.M on Steam!</a>
+    <a class="btn primary" href="https://store.steampowered.com/app/3890550">Buy J.A.M on Steam!</a>
     <a class="btn" href="/projects">Our Games</a>
     <a class="btn" href="/about">About Lycoris</a>
   </nav>

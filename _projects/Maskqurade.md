@@ -12,4 +12,4 @@
 
 Maskqurade is a game from Global Game Jam 2026 where you roam a dungeon for unique relics to empower your character. Traverse further to face greater challenges.
 
-You can play the [GameJam Build here](https://ragecatalyst.itch.io/maskqurade)
+You can play the [GameJam Build here](https://shrug582.itch.io/maskqurade)

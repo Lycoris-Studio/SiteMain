@@ -8,7 +8,7 @@
 ---
 
 ### Maskqurade
-![Maskqurade](/Maskqurade.png "Maskqurade")
+![Maskqurade](/Maskqurade.jpg "Maskqurade")
 
 Maskqurade is a game from Global Game Jam 2026 where you roam a dungeon for unique relics to empower your character. Traverse further to face greater challenges.
 

@@ -14,6 +14,8 @@ Christmas Crashout is a game made for UoL CSS' JollyJam 2025 and is a 2D Streets
 
 Play the [GameJam Build here!](https://lycoris-studio.itch.io/christmas-crashout)
 
+<iframe frameborder="0" src="https://itch.io/embed/4062376" width="552" height="167"><a href="https://lycoris-studio.itch.io/christmas-crashout">CHRISTMAS CRASHOUT by Lycoris Studio, Jake, Shrug, Twisted Pixels</a></iframe>
+
 <br><br>
 Christmas Crashout won 1st Place at JollyJam 2025!
 ![/JollyJamWin.jpg](/JollyJamWin.jpg)

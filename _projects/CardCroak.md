@@ -16,4 +16,6 @@ You are a frog and must battle hippos, sentient slot machines, magical paintaint
 
 You can play the [GameJam Build here](https://kirbyxiv.itch.io/card-croak-actual)
 
+<iframe frameborder="0" src="https://itch.io/embed/3275749" width="552" height="167"><a href="https://kirbyxiv.itch.io/card-croak">Card Croak by KirbyXIV</a></iframe>
+
 Card Croak won 3rd Place at the University of Lincoln's Global Game Jam 2025 Site.

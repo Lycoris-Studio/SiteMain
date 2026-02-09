@@ -4,7 +4,7 @@
  image: "/CCrashout.jpg"
  order: 6
  layout: page
- description:  Santa Clause is having a Christmas Eve! 2D Streets of Rage inspired game <br><br> (JollyJam 2025 Winner)<br>
+ description:  Santa Clause is having a rough Christmas Eve! 2D Streets of Rage inspired game <br><br> (JollyJam 2025 Winner)<br>
 ---
 
 ## Christmas Crashout

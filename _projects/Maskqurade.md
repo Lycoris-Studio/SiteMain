@@ -1,7 +1,7 @@
 ---
  name: Maskqurade
  tools: [Unity, C#, Aesprite]
- image: "/Maskqurade.png"
+ image: "/Maskqurade.jpg"
  layout: page
  order: 5
  description: Roam a dungeon for unique relics to empower your character. Traverse further to face greater challenges. <br><br>(Global Game Jam 2026 Participant)

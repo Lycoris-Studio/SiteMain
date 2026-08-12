@@ -6,10 +6,10 @@ weight: 3
 ---
 
 # **About Lycoris Studio**
-Lycoris Studio is a small game studio based in Lincoln, UK, we have made three prototype games at GameJams to date, we currently have [one game close to full release](/projects/jam) and we are always working on more games!
+Lycoris Studio is a small game studio based in Lincoln, UK, we have made many prototype games at GameJams, and we currently have [one game fully released](/projects/jam)!
 <br><br>
 
-### Who's Behind Lycoris
+### Who Works On Lycoris' Projects
 - Jake Mitchell
 - Jake Shaw
 - Korban James

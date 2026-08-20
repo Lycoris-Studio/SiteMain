@@ -10,12 +10,13 @@ Lycoris Studio is a small game studio based in Lincoln, UK, we have made many pr
 <br><br>
 
 ### Who Works On Lycoris' Projects
-- Jake Mitchell
-- Jake Shaw
-- Korban James
-- Lewis Beety
-- Logan Kirby
-- Luke Davies
+- Logan Kirby (Director)
+- Luke Davies (Director)
+
+- Jake Mitchell (Previous Contractor)
+- Jake Shaw (Previous Contractor)
+- Korban James (Contractor)
+- Lewis Beety (Contractor)
 <br><br>
 
 
